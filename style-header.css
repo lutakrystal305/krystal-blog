@@ -36,6 +36,7 @@ a {
 	text-align : center;
 	display: block;
 	color: #333;
+	margin-bottom: 30px;
 }
 .header-1 a:hover {
 	background-color: #FFF7B0;
@@ -50,8 +51,17 @@ a {
 	background-color: #fff;
 	font-size: 20px;
 }
-@media only screen and (max-width: 761px) {
+@media (max-width: 601px) {
 	.header-1 {
 		display: none;
+	}
+	.zzzzz {
+		width: 95%;
+		max-width: 100%;
+		overflow: hidden;
+	}
+	.logo {
+		width: 50px;
+		height: 40px
 	}
 }

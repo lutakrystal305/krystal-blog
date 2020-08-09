@@ -2,7 +2,7 @@
 	position: relative;
 	float: left;
 	width: 100%;
-	margin-top: 100px;
+	margin-top: 50px;
 }
 .feed-widget {
 	overflow: hidden;
@@ -17,7 +17,7 @@
 	height: 100%;
 	object-fit: cover;
 }
-@media (max-width: 761px) {
+@media (max-width: 601px) {
 	.instagram-footer {
 		display: none;
 	}

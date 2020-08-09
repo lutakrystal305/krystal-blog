@@ -209,7 +209,7 @@ ul {
 .content-part .preview-post {
 	text-align: center;
 }
-@media (max-width: 761px) {
+@media (max-width: 601px) {
 	.list-post-mb {
 		width: 94%;
 		height: 700px;
@@ -313,7 +313,7 @@ ul {
 	text-decoration: none;
 	color: #999;
 }
-@media (max-width: 761px) {
+@media (max-width: 601px) {
 	.zz {
 		display: flex;
 	}
